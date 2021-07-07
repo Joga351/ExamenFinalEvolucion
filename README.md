@@ -1,4 +1,4 @@
-# upc-si431-eb
+# Examen Final de Evolucion de Software
 
 
 The repository contains a simple Java application which outputs the string
